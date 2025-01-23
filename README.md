@@ -1,9 +1,3 @@
-# Form Builder
-
-<img width="1293" alt="Screenshot 1" src="https://github.com/pavle99/form-builder/assets/73827472/f6b46c16-cc09-4dd9-84e2-2b582ac0a7e9">
-<img width="1294" alt="Screenshot 2" src="https://github.com/pavle99/form-builder/assets/73827472/4a2cf5a5-9810-45a0-b6c0-e1c67d7ebabc">
-<img width="1289" alt="Screenshot 3" src="https://github.com/pavle99/form-builder/assets/73827472/9067c607-8e8b-4809-8ef1-e230bcf67075">
-
 ## Table of Contents
 
 - [Introduction](#prerequisites)
